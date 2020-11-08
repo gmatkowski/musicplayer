@@ -1,0 +1,13 @@
+C:\Users\gmatk\source\repos\MusicPlayer\obj\Debug\netcoreapp3.1\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\gmatk\source\repos\MusicPlayer\obj\Debug\netcoreapp3.1\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\gmatk\source\repos\MusicPlayer\obj\Debug\netcoreapp3.1\MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\gmatk\source\repos\MusicPlayer\obj\Debug\netcoreapp3.1\MusicPlayer.AssemblyInfo.cs
+C:\Users\gmatk\source\repos\MusicPlayer\bin\Debug\netcoreapp3.1\MusicPlayer.exe
+C:\Users\gmatk\source\repos\MusicPlayer\bin\Debug\netcoreapp3.1\MusicPlayer.deps.json
+C:\Users\gmatk\source\repos\MusicPlayer\bin\Debug\netcoreapp3.1\MusicPlayer.runtimeconfig.json
+C:\Users\gmatk\source\repos\MusicPlayer\bin\Debug\netcoreapp3.1\MusicPlayer.runtimeconfig.dev.json
+C:\Users\gmatk\source\repos\MusicPlayer\bin\Debug\netcoreapp3.1\MusicPlayer.dll
+C:\Users\gmatk\source\repos\MusicPlayer\bin\Debug\netcoreapp3.1\MusicPlayer.pdb
+C:\Users\gmatk\source\repos\MusicPlayer\obj\Debug\netcoreapp3.1\MusicPlayer.dll
+C:\Users\gmatk\source\repos\MusicPlayer\obj\Debug\netcoreapp3.1\MusicPlayer.pdb
+C:\Users\gmatk\source\repos\MusicPlayer\obj\Debug\netcoreapp3.1\MusicPlayer.genruntimeconfig.cache
