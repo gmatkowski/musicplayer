@@ -11,7 +11,7 @@ namespace MusicPlayer.Genres
             return String.Format("{0} {1}", base.Play(), "CcC");
         }
 
-        public override string getName()
+        public override string GetName()
         {
             return "Disco";
         }

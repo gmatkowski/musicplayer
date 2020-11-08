@@ -65,7 +65,7 @@ namespace MusicPlayer
             foreach (Genre genre in genres)
             {
                 key++;
-                Console.WriteLine("{0}. {1}", key.ToString(), genre.getName());
+                Console.WriteLine("{0}. {1}", key.ToString(), genre.GetName());
             }
         }
     }

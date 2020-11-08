@@ -12,6 +12,6 @@ namespace MusicPlayer
         {
             return String.Format("{0}", GenreSound);
         }
-        abstract public string getName();
+        abstract public string GetName();
     }
 }
