@@ -26,7 +26,7 @@ namespace MusicPlayer
                 string title = Console.ReadLine();
 
                 Console.WriteLine("Podaj nazwę wykonawcy:");
-                string contractor = Console.ReadLine();
+                string artist = Console.ReadLine();
 
                 Console.WriteLine("Wybierz gatunek:");
                 ShowGenres();
@@ -34,7 +34,7 @@ namespace MusicPlayer
                 int id = int.Parse(Console.ReadLine());
                 genre = genres.ElementAt(id - 1);
 
-                player.Add(new Song(genre, title, contractor));
+                player.Add(new Song(genre, title, artist));
 
                 Console.WriteLine("Czy chcesz dodać kolejną? [tak/nie]");
                 string choice = Console.ReadLine();

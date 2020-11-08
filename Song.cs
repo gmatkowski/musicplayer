@@ -8,18 +8,18 @@ namespace MusicPlayer
     {
         public Genre Genre { set; get; }
         public string Title { set; get; }
-        public string Contractor { set; get; }
+        public string Artist { set; get; }
 
-        public Song(Genre genre, string title, string contractor)
+        public Song(Genre genre, string title, string artist)
         {
             Genre = genre;
             Title = title;
-            Contractor = contractor;
+            Artist = artist;
         }
 
         public string Play()
         {
-            return String.Format("Tytuł {0}, Wykonawca {1}, Brzmienie: {2}", Title, Contractor, Genre.Play());
+            return String.Format("Tytuł {0}, Wykonawca {1}, Brzmienie: {2}", Title, Artist, Genre.Play());
         }
     }
 }
